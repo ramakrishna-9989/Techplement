@@ -1,0 +1,62 @@
+C:\java_programs>javac *.java
+
+C:\java_programs>java QuizApp
+1. Create a new quiz
+2. List all quizzes
+3. Take a quiz
+4. Exit
+Enter your choice: 2
+Available Quizzes:
+1. Create a new quiz
+2. List all quizzes
+3. Take a quiz
+4. Exit
+Enter your choice: 1
+Enter quiz title: The first Quiz
+Enter quiz description: for showing the Execution
+Enter question: How many colors in Rainbow?
+Option 1: 5
+Option 2: 6
+Option 3: 7
+Option 4: 8
+Index of correct answer (1-4): 3
+Add another question? (yes/no): yes
+Enter question: what is the UNO?
+Option 1: United National Organ
+Option 2: United Nation organization
+Option 3: United Native Orchy
+Option 4: United Naive Orphan
+Index of correct answer (1-4): 2
+Add another question? (yes/no): no
+1. Create a new quiz
+2. List all quizzes
+3. Take a quiz
+4. Exit
+Enter your choice: 2
+Available Quizzes:
+- The first Quiz (for showing the Execution)
+1. Create a new quiz
+2. List all quizzes
+3. Take a quiz
+4. Exit
+Enter your choice: 3
+Enter quiz ID to take: Q1
+How many colors in Rainbow?
+1) 5
+2) 6
+3) 7
+4) 8
+Your answer (1-4): 3
+what is the UNO?
+1) United National Organ
+2) United Nation organization
+3) United Native Orchy
+4) United Naive Orphan
+Your answer (1-4): 2
+Quiz completed! You scored 2 out of 2 Keep Practice Always Helps you
+1. Create a new quiz
+2. List all quizzes
+3. Take a quiz
+4. Exit
+Enter your choice: 4
+Exiting quiz application. Goodbye!
